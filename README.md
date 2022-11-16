@@ -2,25 +2,21 @@
 
 # Project Name
 
-> Description the project.
-
+> In this project, we demonstrated the use of modules and classes in Ruby. For this we will created a class MyList and a module MyEnumerable.The module MyEnumerable was used to implement a subset of the functionality of Enumerable.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Linters
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -36,21 +32,20 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **George William Kidde**
 
-👤 **Author2**
+- Github: [@kidde60](https://github.com/kidde60)
+- Twitter: [@KGWilliam60](https://twitter.com/KGWilliam60)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/kidde-george-william/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Petro Loltolo Lesapiti**
+
+- GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
+- LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
 
 ## 🤝 Contributing
 
